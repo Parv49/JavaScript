@@ -2,10 +2,10 @@
 // treat all JS code as newer vertion
 
 // Premitive Datatypes
-// String, number, null,boolen,null,undefined,symbol
+// String, number, null,boolearn, null, undefined, symbol, BigInt
 
 // Nonpremitive Datatype
-// objects
+// arrays, objects, functions
 
 
 let age=18;
