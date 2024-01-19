@@ -10,8 +10,10 @@
 
 let age=18;
 console.log(typeof"Parv")
+
 console.log(typeof age)
-// tell the type of datatype of the given argument
+console.llog(typeof(age))
+// tell the type of datatype of the given argument, 2 trha se likha jaa sakta he type of function dono upar likhehe ek me bracket use kare he dusre me nhi
 
 console.log(typeof undefined)
 // iska datatype to undefine hi dikhata he
